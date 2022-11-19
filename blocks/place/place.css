@@ -4,6 +4,7 @@
   grid-template-columns: minmax(min-content, 460px) minmax(min-content, 484px);
   gap: 48px 40px;
   padding-bottom: 80px;
+  justify-items: stretch;
 }
 
 .place:last-child {
