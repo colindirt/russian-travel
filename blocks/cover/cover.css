@@ -9,3 +9,9 @@
     max-width: 100%;
 }
 }
+
+@media screen and (max-width: 480px) {
+  .cover {
+    padding-top: 66px;
+}
+}
